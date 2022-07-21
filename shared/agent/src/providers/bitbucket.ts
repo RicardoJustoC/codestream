@@ -584,6 +584,9 @@ export class BitbucketProvider extends ThirdPartyIssueProviderBase<CSBitbucketPr
 			queriesSafe.map(_query => {
 				let query = _query;
 				let limit = 100;
+
+				// TODO deal with request.isOpen
+
 				// recent is kind of a magic string, where we just look
 				// for some random PR activity to at least show you
 				// something. if you have the repo query checked, and
