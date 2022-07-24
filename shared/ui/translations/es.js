@@ -8,7 +8,7 @@ export default {
 	"forgotPassword.returnSignIn": "Volver a inicio de sesión",
 	"forgotPassword.back": "{'< Atras'}",
 	"forgotPassword.sendEmail": "Enviar correo electronico",
-	"confirmation.checkEmail": "Revise su correo electronico",
+	"confirmation.checkEmail": "Verifica tu correo electrónico",
 	"emailConfirmation.alreadyAccount": "¿Ya posee una cuenta?",
 	"emailConfirmation.signIn": "Iniciar sesión",
 	"joinTeam.alreadyTeam": "¿Su equipo ya esta en CodeStream?",
